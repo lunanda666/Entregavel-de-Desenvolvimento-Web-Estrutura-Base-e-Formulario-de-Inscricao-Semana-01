@@ -1,17 +1,17 @@
-# 🌐 Desenvolvimento Web — Semana 01
+# Desenvolvimento Web — Semana 01
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 Este projeto foi desenvolvido como parte do **Entregável de Desenvolvimento Web – Semana 01**, com o objetivo de praticar a estrutura básica de uma página HTML, a utilização de elementos semânticos e a criação de um formulário de inscrição.
 
 A página apresenta uma estrutura simples de blog, contendo artigos, navegação, formulário de inscrição e rodapé.
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * HTML5
 * CSS3
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 
 ```text
 semana01/
@@ -20,7 +20,7 @@ semana01/
 └── README.md
 ```
 
-## 🧱 Estrutura da página
+## Estrutura da página
 
 A página utiliza elementos semânticos do HTML5, como:
 
@@ -31,7 +31,7 @@ A página utiliza elementos semânticos do HTML5, como:
 * `<aside>` — área destinada ao formulário de inscrição;
 * `<footer>` — rodapé da página.
 
-## 📝 Formulário
+## Formulário
 
 O formulário utiliza o método `GET` e possui os seguintes campos:
 
@@ -44,7 +44,7 @@ O formulário utiliza o método `GET` e possui os seguintes campos:
 
 Também foram utilizados `<fieldset>` e `<legend>` para melhorar a organização e a acessibilidade do formulário.
 
-## 🎨 Estilização
+## Estilização
 
 A estilização foi realizada em um arquivo CSS separado (`style.css`), utilizando recursos como:
 
@@ -56,7 +56,7 @@ A estilização foi realizada em um arquivo CSS separado (`style.css`), utilizan
 * Efeitos de `hover`;
 * Ajustes de tamanho e posicionamento das imagens.
 
-## 🎯 Objetivos da atividade
+## Objetivos da atividade
 
 * Praticar a estrutura básica do HTML5;
 * Utilizar elementos semânticos;
@@ -66,7 +66,7 @@ A estilização foi realizada em um arquivo CSS separado (`style.css`), utilizan
 * Trabalhar com Flexbox;
 * Desenvolver uma página organizada e acessível.
 
-## 👨‍💻 Autor
+## Autor
 
 **Lunanda Rebeca**
 
